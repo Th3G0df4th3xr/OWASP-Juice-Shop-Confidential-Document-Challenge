@@ -3,6 +3,7 @@
 
 📁 Folder Structure Overview
 
+
 OWASP-Juice-Shop-Offensive-Security-Toolkit/
 ├── Method-01_Devtools-Network-Trick/
 ├── Method-02_Direct-API-Call/
