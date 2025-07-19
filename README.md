@@ -3,7 +3,7 @@
 
 📁 Folder Structure Overview
 
-'''
+```
 OWASP-Juice-Shop-Offensive-Security-Toolkit/
 ├── Method-01_Devtools-Network-Trick/
 ├── Method-02_Direct-API-Call/
@@ -19,8 +19,8 @@ OWASP-Juice-Shop-Offensive-Security-Toolkit/
 ├── Method-12_Admin-Debug-Path-Leak/
 ├── Method-13_JS-Deobfuscation-Variable-Recon/
 ├── Method-14_JS-Fetch-Injection/
-└── ...
-'''
+└──
+```
 Each folder contains:
 
 README.md → Challenge description, technical methodology, backend rationale
